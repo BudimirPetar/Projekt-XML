@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sezona>
+  <utrka>
+    <naziv>Bahrein GP</naziv>
+    <datum>28. ožujka 2021.</datum>
+    <pobjednik>Lewis Hamilton</pobjednik>
+    <drugi>Max Verstappen</drugi>
+    <treći>Valtteri Bottas</treći>
+    <slika>slike/1.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Imola GP</naziv>
+    <datum>18. travnja 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>Lewis Hamilton</drugi>
+    <treći>Lando Norris</treći>
+    <slika>slike/2.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Portugal GP</naziv>
+    <datum>2. svibnja 2021.</datum>
+    <pobjednik>Lewis Hamilton</pobjednik>
+    <drugi>Max Verstappen</drugi>
+    <treći>Valtteri Bottas</treći>
+    <slika>slike/3.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Spain GP</naziv>
+    <datum>9. svibnja 2021.</datum>
+    <pobjednik>Lewis Hamilton</pobjednik>
+    <drugi>Max Verstappen</drugi>
+    <treći>Valtteri Bottas</treći>
+    <slika>slike/4.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Monaco GP</naziv>
+    <datum>23. svibnja 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>Carlos Sainz Jr.</drugi>
+    <treći>Lando Norris</treći>
+    <slika>slike/5.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Baku GP</naziv>
+    <datum>6. lipnja 2021.</datum>
+    <pobjednik>Sergio Perez</pobjednik>
+    <drugi>Sebastian Vettel</drugi>
+    <treći>Pierre Gasly</treći>
+    <slika>slike/6.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>France GP</naziv>
+    <datum>20. lipnja 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>Lewis Hamilton</drugi>
+    <treći>Sergio Perez</treći>
+    <slika>slike/7.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Steiremark GP</naziv>
+    <datum>27. lipnja 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>Lewis Hamilton</drugi>
+    <treći>Valtteri Bottas</treći>
+    <slika>slike/8.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Austria GP</naziv>
+    <datum>4. srpnja 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>Valtteri Bottas</drugi>
+    <treći>Lando Norris</treći>
+    <slika>slike/9.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Silverstone GP</naziv>
+    <datum>18. srpnja 2021.</datum>
+    <pobjednik>Lewis Hamilton</pobjednik>
+    <drugi>Charles Leclerc</drugi>
+    <treći>Valtteri Bottas</treći>
+    <slika>slike/10.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Hungary GP</naziv>
+    <datum>1. kolovoza 2021.</datum>
+    <pobjednik>Esteban Ocon</pobjednik>
+    <drugi>Lewis Hamilton</drugi>
+    <treći>Carlos Sainz Jr.</treći>
+    <slika>slike/11.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Spa GP</naziv>
+    <datum>29. kolovoza 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>George Russell</drugi>
+    <treći>Lewis Hamilton</treći>
+    <slika>slike/12.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Zandvoort GP</naziv>
+    <datum>5. rujna 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>Lewis Hamilton</drugi>
+    <treći>Valtteri Bottas</treći>
+    <slika>slike/13.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Monza GP</naziv>
+    <datum>12. rujna 2021.</datum>
+    <pobjednik>Daniel Ricciardo</pobjednik>
+    <drugi>Lando Norris</drugi>
+    <treći>Valtteri Bottas</treći>
+    <slika>slike/14.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Russia GP</naziv>
+    <datum>26. rujna 2021.</datum>
+    <pobjednik>Lewis Hamilton</pobjednik>
+    <drugi>Max Verstappen</drugi>
+    <treći>Carlos Sainz Jr.</treći>
+    <slika>slike/15.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Turkey GP</naziv>
+    <datum>10. listopada 2021.</datum>
+    <pobjednik>Valtteri Bottas</pobjednik>
+    <drugi>Max Verstappen</drugi>
+    <treći>Sergio Perez</treći>
+    <slika>slike/16.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Austin GP</naziv>
+    <datum>24. listopada 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>Lewis Hamilton</drugi>
+    <treći>Sergio Perez</treći>
+    <slika>slike/17.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Mexico GP</naziv>
+    <datum>7. studenog 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>Lewis Hamilton</drugi>
+    <treći>Sergio Perez</treći>
+    <slika>slike/18.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Brazil GP</naziv>
+    <datum>14. studenog 2021.</datum>
+    <pobjednik>Lewis Hamilton</pobjednik>
+    <drugi>Max Verstappen</drugi>
+    <treći>Valtteri Bottas</treći>
+    <slika>slike/19.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Jeddah GP</naziv>
+    <datum>5. prosinca 2021.</datum>
+    <pobjednik>Lewis Hamilton</pobjednik>
+    <drugi>Max Verstappen</drugi>
+    <treći>Valtteri Bottas</treći>
+    <slika>slike/20.jpg</slika>
+  </utrka>
+  <utrka>
+    <naziv>Abu Dhabi GP</naziv>
+    <datum>12. prosinca 2021.</datum>
+    <pobjednik>Max Verstappen</pobjednik>
+    <drugi>Lewis Hamilton</drugi>
+    <treći>Carlos Sainz Jr.</treći>
+    <slika>slike/21.jpg</slika>
+  </utrka>
+</sezona>

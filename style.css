@@ -1,0 +1,25 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.login
+{
+    margin: 0 auto;
+}
+.dugme{
+    text-align: center;
+    margin-top: 10px;
+}
+.container{
+    display: inline-block;
+    margin: 0 auto !important;
+    justify-content: center;
+    text-align: left !important;
+    margin-bottom: 10px;
+}
+
+
